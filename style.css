@@ -1,0 +1,47 @@
+.navbar{
+    margin-bottom: 30px;
+}
+.orange-bg{
+    background-color: pink;
+}
+.col-md-7{
+    padding-left: 50px;
+    padding-top: 100px;
+}
+.button-buy-now{
+    background-image:linear-gradient(0deg,pink,maroon)
+}
+.cat1{
+    background-color: pink;
+}
+    
+.cat2{
+    background-color: purple;
+
+}
+.cat3{
+    background-color: royalblue;
+}
+.categories{
+    margin-top: 30px;
+    
+}
+.cat1,.cat2,.cat3{
+    padding-left:10px;
+    border-radius: 5px;
+}
+.col-md-4 img{
+    padding-left: 20px;
+}
+.card-footer{
+    border: none;
+}
+.card{
+    box-shadow: 10px 10px 40px gray;
+}
+.E-mail{
+    background-color: hotpink;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
